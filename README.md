@@ -1,6 +1,9 @@
 ## Lista de Treinamento de PDI do LAPISCO
 
-### Implementação em C/C++
+### Informações:
+- Implementação em C/C++
+- Dataset usado nas questões sobre machine learning está na pasta **dataset**
+- Necessário uso da biblioteca [OpenCV](https://github.com/opencv/opencv) na versão [2.4.9](https://github.com/opencv/opencv/releases/tag/2.4.9) ou [posterior](https://github.com/opencv/opencv/releases/tag/3.4.5)
 
 ### Descrição da Lista
 | Issue | Descrição |
