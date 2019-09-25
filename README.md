@@ -65,9 +65,7 @@
 |[56](https://github.com/lapisco/PDI_trainingList/tree/master/issue_56)|Usar o método de classificação **Multi Layer Perceptron (MLP)** usando a biblioteca de Machine Learning da OpenCV. Deve-se fazer com os métodos Hold Out e Leave One Out. Tudo deve ser feito utilizando a estrutura Mat da OpenCV. Faça os testes com no mínimo três topologias distintas da Rede Neural usada.|
 |[57](https://github.com/lapisco/PDI_trainingList/tree/master/issue_57)|Usar o método de classificação do **Support Vector Machine (SVM)** usando a biblioteca de Machine Learning da OpenCV. Deve-se fazer com os métodos Hold Out e Leave One Out. Tudo deve ser feito utilizando a estrutura Mat da OpenCV. Faça os testes do SVM com os Kernels Linear, polinomial, Sigmoidal e RBF.|
 |[58](https://github.com/lapisco/PDI_trainingList/tree/master/issue_58)|Usar o método de classificação de **Bayes** usando a biblioteca de Machine Learning da OpenCV. Deve-se fazer com os métodos Hold Out e Leave One Out. Tudo deve ser feito utilizando a estrutura Mat da OpenCV.|
-|[59](https://github.com/lapisco/PDI_trainingList/tree/master/issue_59)|Faça a matriz de confusão para os issues de 53
-a 58.|
+|[59](https://github.com/lapisco/PDI_trainingList/tree/master/issue_59)|Faça a matriz de confusão para os issues de 53 a 58.|
 |[60](https://github.com/lapisco/PDI_trainingList/tree/master/issue_60)|Calcule a acurácia, a especificidade e a sensibilidade a partir de cada matriz de confusão obtida no issue 59.|
 |[61](https://github.com/lapisco/PDI_trainingList/tree/master/issue_61)|Calcule média e desvio padrão dos resultados obtidos no issue 60.|
 |[62](https://github.com/lapisco/PDI_trainingList/tree/master/issue_62)|Todos os métodos de Machine Learning em um só arquivo (issues 53-58). |
-
